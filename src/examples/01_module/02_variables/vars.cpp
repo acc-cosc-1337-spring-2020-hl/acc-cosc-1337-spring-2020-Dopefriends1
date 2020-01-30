@@ -10,8 +10,6 @@ void display_number(int num1)
 int square_number(int num)
 {
 
-	num = 100;
-
 	return num * num;
 
 }
