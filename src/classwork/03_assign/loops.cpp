@@ -15,7 +15,7 @@ DON'T FORGET TO WRITE TEST CASE.  See file loop_test.cpp
 int factorial(int num)
 {
 	if (num > 1)
-		return num * factorial(num - 1);
+		return num * factorial(num - 1); //a
 	else
 		return 1;
 }
