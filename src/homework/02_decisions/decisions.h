@@ -1,4 +1,4 @@
-//write include required statements
+//write include required statements //
 #include<string>
 
 //Write a function prototype named get_grade_points that accepts a string letter_grade and returns

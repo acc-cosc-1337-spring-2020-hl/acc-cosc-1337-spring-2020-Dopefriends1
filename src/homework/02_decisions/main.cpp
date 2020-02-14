@@ -1,7 +1,7 @@
 #include<iostream>
 #include<string>
 using std::cout; using std::cin; using std::string;
-//write include statements
+//write include statements//
 #include "decisions.h"
 
 /*
@@ -52,7 +52,7 @@ int main()
 
 
 	double gpa = calculate_gpa(sum_credit_hours, sum_credit_points);
-	cout << "GPA: " << gpa;
+	cout << "GPA: " << gpa; 
 
 	return 0;
 }
