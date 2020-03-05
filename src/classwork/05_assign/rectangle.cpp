@@ -1,5 +1,6 @@
 //Write include statement
-
+#include 'rectangle.h'
+#include <iostream>
 
 /*
 Write the class function code for the Rectangle class with one constructor that accepts two int parameters (width, height),
